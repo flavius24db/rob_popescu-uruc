@@ -1,0 +1,5 @@
+<launch>
+    <node pkg="topics_quiz" type="avoid_wall.py" name="topics_quiz_node" output="screen">
+    </node>
+</launch>
+
