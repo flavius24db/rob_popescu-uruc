@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+    <node pkg="services_quiz"
+          type="circle_service_server.py"
+          name="es_service_server"
+          output="screen"/>
+</launch>
