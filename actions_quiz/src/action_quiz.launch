@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+    <node pkg="actions_quiz"
+          type="action_server.py"
+          name="socului_action_server"
+          output="screen"/>
+</launch>
